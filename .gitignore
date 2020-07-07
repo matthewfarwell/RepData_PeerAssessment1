@@ -1,0 +1,5 @@
+data/
+PA1_template_files/
+*.html
+*.R
+README.md
